@@ -23,10 +23,12 @@ python llava/eval/run_llava.py
 
 If you find LLaVA-SP useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-@misc{lou2025llavasp,
-    title={LLaVA-SP: Enhancing Visual Representation with Visual Spatial Tokens for MLLMs},
-    author={Lou, Haoran and Fan, Chunxiao and Liu, Ziyan Liu and Wu, Yuexin Wu and Wang, Xinliang},
-    publisher={arXiv:2507.00505},
-    year={2025}
+@InProceedings{Lou_2025_ICCV,
+    author    = {Lou, Haoran and Fan, Chunxiao and Liu, Ziyan and Wu, Yuexin and Wang, Xinliang},
+    title     = {LLaVA-SP: Enhancing Visual Representation with Visual Spatial Tokens for MLLMs},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {22014-22024}
 }
 ```
